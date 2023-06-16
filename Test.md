@@ -1,6 +1,3 @@
----
-permalink: /404.html
----
 <div style="height:100%; width: 100%; min-height: 700px;" class="InsightsContainer"> 
 <script type="text/javascript" src="https://insights-6.qtestnet.com/rdTemplate/rdEmbedApi/rdEmbed.js"></script> 
 <script> 
